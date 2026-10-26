@@ -1,0 +1,21 @@
+# Build output
+build/
+bin/
+out/
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+*.pdb
+
+# IDE and Editor files
+.vscode/
+.vs/
+.idea/
+*.swp
+*~
+
+# Temporary and test files
+*.log

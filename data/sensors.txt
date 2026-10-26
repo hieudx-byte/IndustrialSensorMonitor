@@ -1,0 +1,6 @@
+# ID|Name|CurrentTemperature|WarningThreshold|CriticalThreshold
+101|Boiler Reactor 1|39.62|75|90
+102|Coolant Tank A|41.05|45|60
+103|Exhaust Turbine 2|55.03|85|95
+104|Cold Storage Freezer|-30.91|-10|0
+105|Hydraulic Pump Alpha|41.36|50|70
